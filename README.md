@@ -1,3 +1,2 @@
-# MetodosNumericos
-
-Carpeta de Métodos Numéricos - UNSAM 2018 -
+# Paradigmas de Programación
+# UNSAM 2018
